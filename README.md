@@ -1,6 +1,6 @@
 # 0-1KnapsackProblemVisualizationGUI
 
- A GUI for knapsack problem's visualization animation.
+山东大学数据结构课设
 
 一份0-1背包问题求解的可视化动画GUI界面。
 
